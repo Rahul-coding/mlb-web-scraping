@@ -2,7 +2,7 @@ name: Daily MLB Email
 
 on:
   schedule:
-    - cron: "0 23 * * *"  # every day at 6 AM MST
+    - cron: "25 30 * * *"  # every day at 6 AM MST
   workflow_dispatch:
 
 jobs:
