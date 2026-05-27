@@ -36,7 +36,8 @@ for category, (label, group) in categories.items():
     leaders_data[label] = [
         {
             "name": player['person']['fullName'],
-            "value": player['value']
+            "value": player['value'],
+            "team": player['team']['name']
         }
         for player in leaders
     ]

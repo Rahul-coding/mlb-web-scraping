@@ -35,7 +35,7 @@ def build_html(leaders_data):
             html += f"""
             <li>
               <span class="name">{player['name']}</span>
-              — {player['value']}
+              ({player['team']}) — {player['value']}
             </li>
             """
 
