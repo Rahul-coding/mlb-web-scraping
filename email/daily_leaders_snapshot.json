@@ -1,15 +1,56 @@
- { "date": "2026-05-26",
+{
+  "date": "2026-05-27",
   "leaders": {
     "HR": [
-      { "name": "Old Player 1", "value": 12, "team": "Team A" },
-      { "name": "Old Player 2", "value": 11, "team": "Team B" },
-      { "name": "Old Player 3", "value": 10, "team": "Team C" }
+      {
+        "name": "Kyle Schwarber",
+        "value": "21",
+        "team": "Philadelphia Phillies"
+      },
+      {
+        "name": "Munetaka Murakami",
+        "value": "19",
+        "team": "Chicago White Sox"
+      },
+      {
+        "name": "Yordan Alvarez",
+        "value": "18",
+        "team": "Houston Astros"
+      }
     ],
     "AVG": [
-      { "name": "Old Player 4", "value": ".410", "team": "Team D" }
+      {
+        "name": "Otto Lopez",
+        "value": ".342",
+        "team": "Miami Marlins"
+      },
+      {
+        "name": "Brandon Marsh",
+        "value": ".326",
+        "team": "Philadelphia Phillies"
+      },
+      {
+        "name": "Luis Arraez",
+        "value": ".325",
+        "team": "San Francisco Giants"
+      }
     ],
     "OPS": [
-      { "name": "Old Player 5", "value": ".990", "team": "Team E" }
+      {
+        "name": "Yordan Alvarez",
+        "value": "1.045",
+        "team": "Houston Astros"
+      },
+      {
+        "name": "Ben Rice",
+        "value": ".987",
+        "team": "New York Yankees"
+      },
+      {
+        "name": "James Wood",
+        "value": ".967",
+        "team": "Washington Nationals"
+      }
     ]
   }
 }
