@@ -1,4 +1,4 @@
-#MLB Stats
+# MLB Stats
 
 ## Player comparison feature
 In this feature you can compare the current season stats of multiple players 
