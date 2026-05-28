@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "leaders": {
     "HR": [
       {
@@ -8,14 +8,14 @@
         "team": "Philadelphia Phillies"
       },
       {
-        "name": "Munetaka Murakami",
-        "value": "19",
-        "team": "Chicago White Sox"
+        "name": "Yordan Alvarez",
+        "value": "20",
+        "team": "Houston Astros"
       },
       {
-        "name": "Yordan Alvarez",
-        "value": "18",
-        "team": "Houston Astros"
+        "name": "Munetaka Murakami",
+        "value": "20",
+        "team": "Chicago White Sox"
       }
     ],
     "AVG": [
@@ -38,12 +38,12 @@
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.045",
+        "value": "1.085",
         "team": "Houston Astros"
       },
       {
         "name": "Ben Rice",
-        "value": ".987",
+        "value": "1.006",
         "team": "New York Yankees"
       },
       {
