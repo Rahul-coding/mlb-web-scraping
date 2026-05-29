@@ -4,7 +4,7 @@ import pandas as pd
 
 playerId = 0
 hittingStats = ["gamesPlayed", "runs", "doubles", "triples", "homeRuns", "strikeOuts", "baseOnBalls", "avg", "ops", "stolenBases"]
-pitchingStats = ["gamesPlayed", "inningsPitched", "wins", "losses", "baseOnBalls", "strikeOuts", "avg", "era", "whip", "runs", "saves"]
+pitchingStats = ["gamesPlayed", "inningsPitched", "wins", "losses", "baseOnBalls", "strikeOuts", "avg", "era", "whip", "runs", "svhd", "blownSaves"]
 lowerBetter = ["era", "whip", "avg"] #stats where a lower number is better, used for styling the dataframe
 
 hittersStats = []
@@ -34,14 +34,17 @@ if(st.button("Lookup Player(s)")):
             position = result[0]['primaryPosition']['code'] #get the code for the position (1 for pitcher)
             playerId = result[0]['id'] #to use to get the stats
             fullName = result[0]['fullName']
+            teamName = (statsapi.lookup_team(result[0]['currentTeam']['id']))[0].get('name') #get the team name to display in the stats table
 
              #Pitcher stats
             if(position == "1"): 
                 stats = statsapi.player_stat_data(playerId, "pitching", season="2026")
                 unfilteredStats = stats['stats'][0]['stats']
-                filteredStats = {"Name": fullName}
+                filteredStats = {"Name": fullName, "Team": teamName}
                 for stat in pitchingStats:
-                    if stat in unfilteredStats:
+                    if(stat == "svhd"):
+                        filteredStats[stat] = unfilteredStats.get('saves', 0) + unfilteredStats.get('holds', 0) #combine holds and saves into one stat for easier comparison
+                    elif stat in unfilteredStats:
                         filteredStats[stat] = unfilteredStats[stat]
                     else:
                         filteredStats[stat] = 0
@@ -51,7 +54,7 @@ if(st.button("Lookup Player(s)")):
             else: 
                 stats = statsapi.player_stat_data(playerId, "hitting", season="2026")
                 unfilteredStats = stats['stats'][0]['stats']
-                filteredStats = {"Name": fullName}
+                filteredStats = {"Name": fullName, "Team": teamName}
                 for stat in hittingStats:
                     if stat in unfilteredStats:
                         filteredStats[stat] = unfilteredStats[stat]
