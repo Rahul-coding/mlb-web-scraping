@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-06",
   "leaders": {
     "HR": [
       {
         "name": "Kyle Schwarber",
-        "value": "22",
+        "value": "23",
         "team": "Philadelphia Phillies"
       },
       {
         "name": "Yordan Alvarez",
-        "value": "20",
+        "value": "21",
         "team": "Houston Astros"
       },
       {
@@ -20,36 +20,36 @@
     ],
     "AVG": [
       {
+        "name": "Brandon Marsh",
+        "value": ".332",
+        "team": "Philadelphia Phillies"
+      },
+      {
         "name": "Otto Lopez",
-        "value": ".326",
+        "value": ".331",
         "team": "Miami Marlins"
       },
       {
         "name": "Luis Arraez",
-        "value": ".321",
+        "value": ".326",
         "team": "San Francisco Giants"
-      },
-      {
-        "name": "Brandon Marsh",
-        "value": ".317",
-        "team": "Philadelphia Phillies"
       }
     ],
     "OPS": [
       {
-        "name": "Ben Rice",
-        "value": "1.055",
-        "team": "New York Yankees"
-      },
-      {
         "name": "Yordan Alvarez",
-        "value": "1.050",
+        "value": "1.074",
         "team": "Houston Astros"
       },
       {
-        "name": "James Wood",
-        "value": ".959",
-        "team": "Washington Nationals"
+        "name": "Ben Rice",
+        "value": "1.050",
+        "team": "New York Yankees"
+      },
+      {
+        "name": "Kyle Schwarber",
+        "value": ".957",
+        "team": "Philadelphia Phillies"
       }
     ]
   }
