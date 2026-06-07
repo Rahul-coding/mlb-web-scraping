@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-07",
   "leaders": {
     "HR": [
       {
@@ -9,7 +9,7 @@
       },
       {
         "name": "Yordan Alvarez",
-        "value": "21",
+        "value": "22",
         "team": "Houston Astros"
       },
       {
@@ -21,24 +21,24 @@
     "AVG": [
       {
         "name": "Brandon Marsh",
-        "value": ".332",
+        "value": ".335",
         "team": "Philadelphia Phillies"
       },
       {
         "name": "Otto Lopez",
-        "value": ".331",
+        "value": ".333",
         "team": "Miami Marlins"
       },
       {
-        "name": "Luis Arraez",
-        "value": ".328",
-        "team": "San Francisco Giants"
+        "name": "Yandy D\u00edaz",
+        "value": ".326",
+        "team": "Tampa Bay Rays"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.074",
+        "value": "1.084",
         "team": "Houston Astros"
       },
       {
@@ -48,7 +48,7 @@
       },
       {
         "name": "Kyle Schwarber",
-        "value": ".957",
+        "value": ".944",
         "team": "Philadelphia Phillies"
       }
     ],
@@ -60,7 +60,7 @@
       },
       {
         "name": "Jacob Misiorowski",
-        "value": "1.65",
+        "value": "1.50",
         "team": "Milwaukee Brewers"
       },
       {
@@ -72,7 +72,7 @@
     "WHIP": [
       {
         "name": "Jacob Misiorowski",
-        "value": "0.79",
+        "value": "0.81",
         "team": "Milwaukee Brewers"
       },
       {
@@ -89,7 +89,7 @@
     "SO": [
       {
         "name": "Jacob Misiorowski",
-        "value": "108",
+        "value": "116",
         "team": "Milwaukee Brewers"
       },
       {
