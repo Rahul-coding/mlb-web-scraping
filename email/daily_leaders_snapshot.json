@@ -1,16 +1,21 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "leaders": {
     "HR": [
       {
         "name": "Kyle Schwarber",
-        "value": "23",
+        "value": "24",
         "team": "Philadelphia Phillies"
       },
       {
         "name": "Yordan Alvarez",
         "value": "22",
         "team": "Houston Astros"
+      },
+      {
+        "name": "Byron Buxton",
+        "value": "20",
+        "team": "Minnesota Twins"
       },
       {
         "name": "Munetaka Murakami",
@@ -21,34 +26,34 @@
     "AVG": [
       {
         "name": "Otto Lopez",
-        "value": ".341",
+        "value": ".342",
         "team": "Miami Marlins"
       },
       {
         "name": "Jung Hoo Lee",
-        "value": ".335",
+        "value": ".338",
         "team": "San Francisco Giants"
       },
       {
-        "name": "Brandon Marsh",
-        "value": ".332",
-        "team": "Philadelphia Phillies"
+        "name": "Yandy D\u00edaz",
+        "value": ".331",
+        "team": "Tampa Bay Rays"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.074",
+        "value": "1.066",
         "team": "Houston Astros"
       },
       {
         "name": "Ben Rice",
-        "value": "1.018",
+        "value": "1.006",
         "team": "New York Yankees"
       },
       {
         "name": "Nick Kurtz",
-        "value": ".969",
+        "value": ".967",
         "team": "Athletics"
       }
     ],
@@ -81,9 +86,9 @@
         "team": "New York Yankees"
       },
       {
-        "name": "Yoshinobu Yamamoto",
-        "value": "0.92",
-        "team": "Los Angeles Dodgers"
+        "name": "Drew Rasmussen",
+        "value": "0.88",
+        "team": "Tampa Bay Rays"
       }
     ],
     "SO": [
