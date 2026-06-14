@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-14",
   "leaders": {
     "HR": [
       {
@@ -14,42 +14,42 @@
       },
       {
         "name": "Byron Buxton",
-        "value": "21",
+        "value": "22",
         "team": "Minnesota Twins"
       }
     ],
     "AVG": [
       {
         "name": "Otto Lopez",
-        "value": ".342",
+        "value": ".345",
         "team": "Miami Marlins"
       },
       {
         "name": "Jung Hoo Lee",
-        "value": ".333",
+        "value": ".328",
         "team": "San Francisco Giants"
       },
       {
-        "name": "Yandy D\u00edaz",
-        "value": ".329",
-        "team": "Tampa Bay Rays"
+        "name": "Brandon Marsh",
+        "value": ".328",
+        "team": "Philadelphia Phillies"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.092",
+        "value": "1.093",
         "team": "Houston Astros"
       },
       {
         "name": "Ben Rice",
-        "value": ".998",
+        "value": ".990",
         "team": "New York Yankees"
       },
       {
-        "name": "Nick Kurtz",
-        "value": ".976",
-        "team": "Athletics"
+        "name": "Shohei Ohtani",
+        "value": ".979",
+        "team": "Los Angeles Dodgers"
       }
     ],
     "ERA": [
@@ -65,7 +65,7 @@
       },
       {
         "name": "Cam Schlittler",
-        "value": "1.87",
+        "value": "1.82",
         "team": "New York Yankees"
       }
     ],
@@ -76,9 +76,9 @@
         "team": "Milwaukee Brewers"
       },
       {
-        "name": "Cam Schlittler",
-        "value": "0.87",
-        "team": "New York Yankees"
+        "name": "Yoshinobu Yamamoto",
+        "value": "0.84",
+        "team": "Los Angeles Dodgers"
       },
       {
         "name": "Drew Rasmussen",
