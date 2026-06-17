@@ -1,16 +1,16 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "leaders": {
     "HR": [
+      {
+        "name": "Kyle Schwarber",
+        "value": "25",
+        "team": "Philadelphia Phillies"
+      },
       {
         "name": "Yordan Alvarez",
         "value": "24",
         "team": "Houston Astros"
-      },
-      {
-        "name": "Kyle Schwarber",
-        "value": "24",
-        "team": "Philadelphia Phillies"
       },
       {
         "name": "Byron Buxton",
@@ -21,7 +21,7 @@
     "AVG": [
       {
         "name": "Otto Lopez",
-        "value": ".339",
+        "value": ".338",
         "team": "Miami Marlins"
       },
       {
@@ -31,25 +31,25 @@
       },
       {
         "name": "Yordan Alvarez",
-        "value": ".328",
+        "value": ".326",
         "team": "Houston Astros"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.087",
+        "value": "1.074",
         "team": "Houston Astros"
       },
       {
-        "name": "Nick Kurtz",
+        "name": "Ben Rice",
         "value": "1.006",
-        "team": "Athletics"
+        "team": "New York Yankees"
       },
       {
-        "name": "Ben Rice",
-        "value": ".998",
-        "team": "New York Yankees"
+        "name": "Nick Kurtz",
+        "value": "1.000",
+        "team": "Athletics"
       }
     ],
     "ERA": [
@@ -99,7 +99,7 @@
       },
       {
         "name": "Dylan Cease",
-        "value": "103",
+        "value": "110",
         "team": "Toronto Blue Jays"
       }
     ]
