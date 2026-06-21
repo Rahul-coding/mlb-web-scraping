@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "leaders": {
     "HR": [
       {
         "name": "Kyle Schwarber",
-        "value": "25",
+        "value": "28",
         "team": "Philadelphia Phillies"
       },
       {
@@ -14,47 +14,42 @@
       },
       {
         "name": "Byron Buxton",
-        "value": "23",
+        "value": "24",
         "team": "Minnesota Twins"
       }
     ],
     "AVG": [
       {
         "name": "Otto Lopez",
-        "value": ".334",
+        "value": ".332",
         "team": "Miami Marlins"
       },
       {
         "name": "Jung Hoo Lee",
-        "value": ".328",
+        "value": ".331",
         "team": "San Francisco Giants"
       },
       {
-        "name": "Yordan Alvarez",
-        "value": ".324",
-        "team": "Houston Astros"
+        "name": "Yandy D\u00edaz",
+        "value": ".322",
+        "team": "Tampa Bay Rays"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.065",
+        "value": "1.054",
         "team": "Houston Astros"
       },
       {
         "name": "Ben Rice",
-        "value": "1.005",
+        "value": ".987",
         "team": "New York Yankees"
       },
       {
         "name": "Nick Kurtz",
-        "value": ".980",
+        "value": ".982",
         "team": "Athletics"
-      },
-      {
-        "name": "Juan Soto",
-        "value": ".980",
-        "team": "New York Mets"
       }
     ],
     "ERA": [
@@ -70,7 +65,7 @@
       },
       {
         "name": "Cristopher S\u00e1nchez",
-        "value": "1.82",
+        "value": "1.80",
         "team": "Philadelphia Phillies"
       }
     ],
@@ -82,7 +77,7 @@
       },
       {
         "name": "Yoshinobu Yamamoto",
-        "value": "0.84",
+        "value": "0.87",
         "team": "Los Angeles Dodgers"
       },
       {
@@ -99,7 +94,7 @@
       },
       {
         "name": "Cristopher S\u00e1nchez",
-        "value": "116",
+        "value": "121",
         "team": "Philadelphia Phillies"
       },
       {
