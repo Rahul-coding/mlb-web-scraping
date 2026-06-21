@@ -1,106 +1,106 @@
 {
-  "date": "2026-06-06",
+  "date": "2026-06-21",
   "leaders": {
     "HR": [
       {
         "name": "Kyle Schwarber",
-        "value": "23",
+        "value": "28",
         "team": "Philadelphia Phillies"
       },
       {
         "name": "Yordan Alvarez",
-        "value": "21",
+        "value": "24",
         "team": "Houston Astros"
       },
       {
-        "name": "Munetaka Murakami",
-        "value": "20",
-        "team": "Chicago White Sox"
+        "name": "Byron Buxton",
+        "value": "24",
+        "team": "Minnesota Twins"
       }
     ],
     "AVG": [
       {
-        "name": "Brandon Marsh",
-        "value": ".332",
-        "team": "Philadelphia Phillies"
-      },
-      {
         "name": "Otto Lopez",
-        "value": ".331",
+        "value": ".332",
         "team": "Miami Marlins"
       },
       {
-        "name": "Luis Arraez",
-        "value": ".328",
+        "name": "Jung Hoo Lee",
+        "value": ".331",
         "team": "San Francisco Giants"
+      },
+      {
+        "name": "Yandy D\u00edaz",
+        "value": ".322",
+        "team": "Tampa Bay Rays"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.074",
+        "value": "1.054",
         "team": "Houston Astros"
       },
       {
         "name": "Ben Rice",
-        "value": "1.050",
+        "value": ".987",
         "team": "New York Yankees"
       },
       {
-        "name": "Kyle Schwarber",
-        "value": ".957",
-        "team": "Philadelphia Phillies"
+        "name": "Nick Kurtz",
+        "value": ".982",
+        "team": "Athletics"
       }
     ],
     "ERA": [
       {
-        "name": "Cristopher S\u00e1nchez",
-        "value": "1.46",
-        "team": "Philadelphia Phillies"
-      },
-      {
         "name": "Jacob Misiorowski",
-        "value": "1.65",
+        "value": "1.45",
         "team": "Milwaukee Brewers"
       },
       {
         "name": "Cam Schlittler",
-        "value": "1.89",
+        "value": "1.71",
         "team": "New York Yankees"
+      },
+      {
+        "name": "Cristopher S\u00e1nchez",
+        "value": "1.80",
+        "team": "Philadelphia Phillies"
       }
     ],
     "WHIP": [
       {
         "name": "Jacob Misiorowski",
-        "value": "0.79",
+        "value": "0.75",
         "team": "Milwaukee Brewers"
       },
       {
-        "name": "Cam Schlittler",
-        "value": "0.86",
-        "team": "New York Yankees"
+        "name": "Yoshinobu Yamamoto",
+        "value": "0.87",
+        "team": "Los Angeles Dodgers"
       },
       {
-        "name": "Paul Skenes",
-        "value": "0.91",
-        "team": "Pittsburgh Pirates"
+        "name": "Drew Rasmussen",
+        "value": "0.88",
+        "team": "Tampa Bay Rays"
       }
     ],
     "SO": [
       {
         "name": "Jacob Misiorowski",
-        "value": "108",
+        "value": "138",
         "team": "Milwaukee Brewers"
       },
       {
         "name": "Cristopher S\u00e1nchez",
-        "value": "103",
+        "value": "121",
         "team": "Philadelphia Phillies"
       },
       {
-        "name": "Gavin Williams",
-        "value": "94",
-        "team": "Cleveland Guardians"
+        "name": "Dylan Cease",
+        "value": "110",
+        "team": "Toronto Blue Jays"
       }
     ]
   }
