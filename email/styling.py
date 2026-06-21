@@ -128,16 +128,11 @@ def build_html(leaders_data, previous_date=None, categories=None):
                 player_class = "new-player" if player.get("is_new") else ""
                 new_badge = '<span class="new-badge">NEW</span>' if player.get("is_new") else ""
                 up_badge = ""
+                from_rank = player.get("from_rank")
                 if player.get("moved_up"):
-                  from_rank = player.get("from_rank")
-                  to_rank = player.get("to_rank")
-                  moved = player.get("moved_up")
-                  up_badge = f'<span class="up-badge" title="from {from_rank} to {to_rank}">▲{moved}</span>'
+                  up_badge = f'<span class="up-badge">▲{from_rank}</span>'
                 elif player.get("moved_down"):
-                  from_rank = player.get("from_rank")
-                  to_rank = player.get("to_rank")
-                  moved = player.get("moved_down")
-                  up_badge = f'<span class="down-badge" title="from {from_rank} to {to_rank}">▼{moved+1}</span>'
+                  up_badge = f'<span class="down-badge>▼{from_rank}</span>'
 
                 html += f"""
                 <li class="{player_class}">
