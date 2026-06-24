@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "leaders": {
     "HR": [
       {
@@ -21,34 +21,34 @@
     "AVG": [
       {
         "name": "Otto Lopez",
-        "value": ".336",
+        "value": ".337",
         "team": "Miami Marlins"
       },
       {
         "name": "Jung Hoo Lee",
-        "value": ".327",
+        "value": ".331",
         "team": "San Francisco Giants"
       },
       {
-        "name": "Yandy D\u00edaz",
-        "value": ".326",
-        "team": "Tampa Bay Rays"
+        "name": "Yordan Alvarez",
+        "value": ".325",
+        "team": "Houston Astros"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.070",
+        "value": "1.076",
         "team": "Houston Astros"
       },
       {
         "name": "Nick Kurtz",
-        "value": ".995",
+        "value": ".982",
         "team": "Athletics"
       },
       {
         "name": "Ben Rice",
-        "value": ".990",
+        "value": ".973",
         "team": "New York Yankees"
       }
     ],
