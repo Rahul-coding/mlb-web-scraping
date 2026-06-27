@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "leaders": {
     "HR": [
       {
@@ -21,40 +21,35 @@
     "AVG": [
       {
         "name": "Otto Lopez",
-        "value": ".340",
+        "value": ".335",
         "team": "Miami Marlins"
       },
       {
-        "name": "Jung Hoo Lee",
-        "value": ".332",
-        "team": "San Francisco Giants"
+        "name": "Yandy D\u00edaz",
+        "value": ".334",
+        "team": "Tampa Bay Rays"
       },
       {
-        "name": "Yandy D\u00edaz",
-        "value": ".331",
-        "team": "Tampa Bay Rays"
+        "name": "Jung Hoo Lee",
+        "value": ".327",
+        "team": "San Francisco Giants"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.055",
+        "value": "1.046",
         "team": "Houston Astros"
       },
       {
-        "name": "Juan Soto",
-        "value": ".966",
-        "team": "New York Mets"
+        "name": "Kyle Schwarber",
+        "value": ".962",
+        "team": "Philadelphia Phillies"
       },
       {
         "name": "Shohei Ohtani",
-        "value": ".963",
+        "value": ".957",
         "team": "Los Angeles Dodgers"
-      },
-      {
-        "name": "Kyle Schwarber",
-        "value": ".963",
-        "team": "Philadelphia Phillies"
       }
     ],
     "ERA": [
@@ -77,7 +72,7 @@
     "WHIP": [
       {
         "name": "Jacob Misiorowski",
-        "value": "0.75",
+        "value": "0.77",
         "team": "Milwaukee Brewers"
       },
       {
@@ -94,7 +89,7 @@
     "SO": [
       {
         "name": "Jacob Misiorowski",
-        "value": "138",
+        "value": "146",
         "team": "Milwaukee Brewers"
       },
       {
