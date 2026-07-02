@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "leaders": {
     "HR": [
       {
@@ -8,48 +8,48 @@
         "team": "Philadelphia Phillies"
       },
       {
+        "name": "Hunter Goodman",
+        "value": "27",
+        "team": "Colorado Rockies"
+      },
+      {
         "name": "Yordan Alvarez",
         "value": "26",
         "team": "Houston Astros"
-      },
-      {
-        "name": "Hunter Goodman",
-        "value": "26",
-        "team": "Colorado Rockies"
       }
     ],
     "AVG": [
       {
-        "name": "Yandy D\u00edaz",
-        "value": ".334",
-        "team": "Tampa Bay Rays"
-      },
-      {
         "name": "Otto Lopez",
-        "value": ".333",
+        "value": ".332",
         "team": "Miami Marlins"
       },
       {
+        "name": "Yandy D\u00edaz",
+        "value": ".329",
+        "team": "Tampa Bay Rays"
+      },
+      {
         "name": "Luis Arraez",
-        "value": ".331",
+        "value": ".326",
         "team": "San Francisco Giants"
       }
     ],
     "OPS": [
       {
         "name": "Yordan Alvarez",
-        "value": "1.046",
+        "value": "1.053",
         "team": "Houston Astros"
       },
       {
         "name": "Juan Soto",
-        "value": ".971",
+        "value": ".957",
         "team": "New York Mets"
       },
       {
-        "name": "Shohei Ohtani",
-        "value": ".954",
-        "team": "Los Angeles Dodgers"
+        "name": "Junior Caminero",
+        "value": ".944",
+        "team": "Tampa Bay Rays"
       }
     ],
     "ERA": [
